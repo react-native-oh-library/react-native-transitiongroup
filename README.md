@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-transitiongroup
+# @react-native-ohos/react-native-transitiongroup
 
 This project is based on [react-native-transitiongroup](https://github.com/madsleejensen/react-native-transitiongroup)
 
